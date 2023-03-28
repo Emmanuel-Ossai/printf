@@ -1,4 +1,4 @@
-i#include "main.h"
+#include "main.h"
 
 /**
  * get_flags - a function that calculates active flags
